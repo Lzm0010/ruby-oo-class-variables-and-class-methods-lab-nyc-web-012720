@@ -9,6 +9,7 @@ class Song
   end
   
   def self.count
+    
   end
   
   def self.artists

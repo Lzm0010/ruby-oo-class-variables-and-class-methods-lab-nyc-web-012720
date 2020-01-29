@@ -29,7 +29,7 @@ class Song
   
   def self.genre_count
     genre_info = {}
-    @@genres.
+    @@genres.map
   end
   
   def self.artist_count

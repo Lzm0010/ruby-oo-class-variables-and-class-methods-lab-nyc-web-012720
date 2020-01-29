@@ -7,4 +7,8 @@ class Song
   def initialize
     
   end
+  
+  def artists
+    
+  end
 end

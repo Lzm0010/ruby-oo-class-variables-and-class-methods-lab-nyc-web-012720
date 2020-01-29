@@ -31,7 +31,7 @@ class Song
     genre_info = {}
     @@genres.map{|genre| 
       if genre_info[genre]
-        
+        genre_info[genre] += 1
       else
         
       end

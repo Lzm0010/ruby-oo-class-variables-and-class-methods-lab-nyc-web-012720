@@ -28,7 +28,7 @@ class Song
   end
   
   def self.genre_count
-    genre_info = {}
+    # genre_info = {}
     @@genres.map
   end
   

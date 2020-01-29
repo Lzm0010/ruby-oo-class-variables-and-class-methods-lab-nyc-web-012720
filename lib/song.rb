@@ -12,7 +12,7 @@ class Song
     
   end
   
-  def genres
+  def selfgenres
     
   end
 end

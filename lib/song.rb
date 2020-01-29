@@ -8,6 +8,9 @@ class Song
     
   end
   
+  
+  def self.
+  
   def self.artists
     
   end

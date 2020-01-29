@@ -44,6 +44,7 @@ class Song
     @@artists.each{|artist|
       if artist_info[artist]
         artist_info[artist] += 1
+      else
     }
   end
 end

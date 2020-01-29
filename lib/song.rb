@@ -48,5 +48,6 @@ class Song
         artist_info[artist] = 1
       end
     }
+    artist_info
   end
 end

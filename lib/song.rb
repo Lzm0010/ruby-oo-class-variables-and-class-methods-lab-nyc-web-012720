@@ -33,7 +33,7 @@ class Song
       if genre_info[genre]
         genre_info[genre] += 1
       else
-        
+        genre_info[genre]
       end
     }
   end

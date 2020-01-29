@@ -46,6 +46,7 @@ class Song
         artist_info[artist] += 1
       else
         artist_info[artist] = 1
+      end
     }
   end
 end
